@@ -31,11 +31,7 @@ Activate Anti-spam protection in your BM by this command :
 
 Owner [Abdul Kader](t.me/itsabdulkader)
 
-Special thanks to [this person](t.me/denver02) for helping me.
-
 Deploy a bot like me [now](www.github.com/abdulkader00/Group-Butler-Haruka)
-
-Watch [video tutorial](https://www.youtube.com/watch?v=gXXFpTAk6Vo&feature=youtu.be) on deploying me.
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
